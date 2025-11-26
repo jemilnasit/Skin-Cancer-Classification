@@ -1,0 +1,8 @@
+﻿models/
+sc_venv/
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.tflite
